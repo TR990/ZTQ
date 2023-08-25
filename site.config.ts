@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '张天奇',
-  domain: 'ztq.xiaoqi.cfd',
+  domain: 'https://www.notion.so/4d5a7f2a17354eb3953f27b477e8e2f6',
   author: '张天奇',
 
   // open graph metadata (optional)
