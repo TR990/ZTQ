@@ -17,9 +17,9 @@ export default siteConfig({
   description: '张天奇私人空间',
 
   // social usernames (optional)
-  twitter: '',
+  // twitter: '',
   github: 'TR990',
-  linkedin: 'fisch2',
+  // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
